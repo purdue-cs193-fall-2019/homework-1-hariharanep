@@ -1,13 +1,14 @@
-# Welcome to GitHub Pages
-## By Pranav Hariharane
-## Purdue Computer Science Class of 2023
+# Pranav Hariharane's First CS193 Homework
+
+- The students that are teaching me are really cool 
+- The class can be used to bump my GPA
+- The class teached how to use the terminal 
+ - So instead of just watching my dad use it when he works and staring at his screen in awe, I can actually learn how to do what he does
+- The chairs are kind of nice in my opinion
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-- You use dashes followed by a space 
-- to start a Bulleted list
 
 1. You use numbers followed by
 2. a period and then a space
