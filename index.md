@@ -6,8 +6,18 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- You use dashes to start a 
-- Bulleted list
+- You use dashes followed by a space 
+- to start a Bulleted list
+
+1. You use numbers followed by
+2. a period and then a space
+3. to start a numbered list
+
+**You cover your letters with two stars on both sides to bold them** 
+_You cover your letters with underscores on both sides to italicize them_
+'You cover your letters with apostrophes on both sides to make them green'
+
+
 
 ### Markdown
 
