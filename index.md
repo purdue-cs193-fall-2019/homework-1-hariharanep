@@ -13,9 +13,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. a period and then a space
 3. to start a numbered list
 
-**You cover your letters with two stars on both sides to bold them** 
-_You cover your letters with underscores on both sides to italicize them_
-`You cover your letters with rightwards pointing on both sides to make them grey`
+**You cover your letters with two stars on both sides to bold them.** 
+_You cover your letters with underscores on both sides to italicize them._
+`You cover your letters with rightwards pointing on both sides to highlight them in grey.`
 
 
 
