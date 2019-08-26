@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **You cover your letters with two stars on both sides to bold them** 
 _You cover your letters with underscores on both sides to italicize them_
-'You cover your letters with apostrophes on both sides to make them green'
+`You cover your letters with rightwards pointing on both sides to make them grey`
 
 
 
