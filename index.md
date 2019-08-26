@@ -1,5 +1,6 @@
 # Pranav Hariharane's First CS193 Homework
 
+## My Favorite Things About CS193 Right Now
 - The students that are teaching me are really cool. 
 - The class can be used to bump my GPA.
 - The class teaches how to use the terminal. So instead of just watching my dad use it when he works and staring at his screen in awe, I can actually learn how to do what he does.
