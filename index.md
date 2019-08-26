@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **You cover your letters with two stars on both sides to bold them.** 
 _You cover your letters with underscores on both sides to italicize them._
-`You cover your letters with rightwards pointing on both sides to highlight them in grey.`
+`You cover your letters with rightwards pointing apostrophes on both sides to make them look like code.`
 
 
 
@@ -46,7 +46,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme that you have selected by default in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. I, on the other hand, have changed the theme to something more elegant.
 
 ### Support or Contact
 
