@@ -1,9 +1,9 @@
 # Pranav Hariharane's First CS193 Homework
 
-- The students that are teaching me are really cool 
-- The class can be used to bump my GPA
+- The students that are teaching me are really cool. 
+- The class can be used to bump my GPA.
 - The class teaches how to use the terminal. So instead of just watching my dad use it when he works and staring at his screen in awe, I can actually learn how to do what he does.
-- The chairs are also kind of nice in my opinion
+- The chairs are also kind of nice in my opinion.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
